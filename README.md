@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # atm-python-jenkins
 Aplicación de simulación de un cajero automático en Python para la implementación de Integración Continua con Jenkins y GitHub.
 =======
@@ -33,6 +33,5 @@ El objetivo del proyecto es demostrar la implementación de un proceso de Integr
 - AWS EC2
 
 ## Autor
-
-Jesús Fernando Rodríguez Figueroa
->>>>>>> eadaa5f (Initial commit)
+Dario Alvarez
+Zabdiel Apatiga
